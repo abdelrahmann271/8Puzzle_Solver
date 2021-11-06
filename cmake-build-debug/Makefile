@@ -142,76 +142,17 @@ main/fast:
 .PHONY : main/fast
 
 #=============================================================================
-# Target rules for targets named untitled8
+# Target rules for targets named main2
 
 # Build rule for target.
-untitled8: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 untitled8
-.PHONY : untitled8
+main2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 main2
+.PHONY : main2
 
 # fast build rule for target.
-untitled8/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/build
-.PHONY : untitled8/fast
-
-#=============================================================================
-# Target rules for targets named ddd
-
-# Build rule for target.
-ddd: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 ddd
-.PHONY : ddd
-
-# fast build rule for target.
-ddd/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ddd.dir\build.make CMakeFiles/ddd.dir/build
-.PHONY : ddd/fast
-
-#=============================================================================
-# Target rules for targets named bfsCodeExample1
-
-# Build rule for target.
-bfsCodeExample1: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 bfsCodeExample1
-.PHONY : bfsCodeExample1
-
-# fast build rule for target.
-bfsCodeExample1/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfsCodeExample1.dir\build.make CMakeFiles/bfsCodeExample1.dir/build
-.PHONY : bfsCodeExample1/fast
-
-bfsCodeExample1.obj: bfsCodeExample1.cpp.obj
-
-.PHONY : bfsCodeExample1.obj
-
-# target to build an object file
-bfsCodeExample1.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/bfsCodeExample1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ddd.dir\build.make CMakeFiles/ddd.dir/bfsCodeExample1.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfsCodeExample1.dir\build.make CMakeFiles/bfsCodeExample1.dir/bfsCodeExample1.cpp.obj
-.PHONY : bfsCodeExample1.cpp.obj
-
-bfsCodeExample1.i: bfsCodeExample1.cpp.i
-
-.PHONY : bfsCodeExample1.i
-
-# target to preprocess a source file
-bfsCodeExample1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/bfsCodeExample1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ddd.dir\build.make CMakeFiles/ddd.dir/bfsCodeExample1.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfsCodeExample1.dir\build.make CMakeFiles/bfsCodeExample1.dir/bfsCodeExample1.cpp.i
-.PHONY : bfsCodeExample1.cpp.i
-
-bfsCodeExample1.s: bfsCodeExample1.cpp.s
-
-.PHONY : bfsCodeExample1.s
-
-# target to generate assembly for a file
-bfsCodeExample1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/bfsCodeExample1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ddd.dir\build.make CMakeFiles/ddd.dir/bfsCodeExample1.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\bfsCodeExample1.dir\build.make CMakeFiles/bfsCodeExample1.dir/bfsCodeExample1.cpp.s
-.PHONY : bfsCodeExample1.cpp.s
+main2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main2.dir\build.make CMakeFiles/main2.dir/build
+.PHONY : main2/fast
 
 main.obj: main.cpp.obj
 
@@ -220,7 +161,7 @@ main.obj: main.cpp.obj
 # target to build an object file
 main.cpp.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/main.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main2.dir\build.make CMakeFiles/main2.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -230,7 +171,7 @@ main.i: main.cpp.i
 # target to preprocess a source file
 main.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/main.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main2.dir\build.make CMakeFiles/main2.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -240,7 +181,7 @@ main.s: main.cpp.s
 # target to generate assembly for a file
 main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/main.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled8.dir\build.make CMakeFiles/untitled8.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main2.dir\build.make CMakeFiles/main2.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -251,13 +192,8 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... bfsCodeExample1
-	@echo ... ddd
 	@echo ... main
-	@echo ... untitled8
-	@echo ... bfsCodeExample1.obj
-	@echo ... bfsCodeExample1.i
-	@echo ... bfsCodeExample1.s
+	@echo ... main2
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

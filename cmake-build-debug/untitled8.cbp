@@ -69,8 +69,8 @@
 					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="untitled8">
-				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/untitled8.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="main2">
+				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/main2.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -84,14 +84,14 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled8"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2"/>
 					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="untitled8/fast">
-				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/untitled8.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="main2/fast">
+				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/main2.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -105,91 +105,7 @@
 					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled8/fast"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ddd">
-				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/ddd.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 ddd"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ddd/fast">
-				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/ddd.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 ddd/fast"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="bfsCodeExample1">
-				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/bfsCodeExample1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 bfsCodeExample1"/>
-					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="bfsCodeExample1/fast">
-				<Option output="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/bfsCodeExample1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 bfsCodeExample1/fast"/>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 main2/fast"/>
 					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -206,14 +122,21 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/bfsCodeExample1.cpp">
-			<Option target="untitled8"/>
-			<Option target="ddd"/>
-			<Option target="bfsCodeExample1"/>
+		<Unit filename="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/A_star.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/bfs.h">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/dfs.h">
+			<Option target="main"/>
 		</Unit>
 		<Unit filename="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/main.cpp">
 			<Option target="main"/>
-			<Option target="untitled8"/>
+			<Option target="main2"/>
+		</Unit>
+		<Unit filename="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/utils.h">
+			<Option target="main"/>
 		</Unit>
 		<Unit filename="C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

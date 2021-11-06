@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/A_star.h
+bits/stdc++.h
+-
+unordered_map
+-
+chrono
+-
+
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/bfs.h
+bits/stdc++.h
+-
+unordered_map
+-
+chrono
+-
+
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/dfs.h
+bits/stdc++.h
+-
+unordered_map
+-
+chrono
+-
+
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/main.cpp
+bits/stdc++.h
+-
+unordered_map
+-
+chrono
+-
+utils.h
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/utils.h
+A_star.h
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/A_star.h
+bfs.h
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/bfs.h
+dfs.h
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/dfs.h
+
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/utils.h
+bits/stdc++.h
+-
+unordered_map
+-
+chrono
+-
+

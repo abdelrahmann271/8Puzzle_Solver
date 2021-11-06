@@ -1,6 +1,4 @@
 C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/CMakeFiles/untitled8.dir
-C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/CMakeFiles/ddd.dir
-C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/CMakeFiles/bfsCodeExample1.dir
+C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/CMakeFiles/main2.dir
 C:/Users/Abdelrahman Nour/CLionProjects/8Puzzle_Solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
